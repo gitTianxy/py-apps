@@ -1,2 +1,2 @@
 # py-apps
-note of some existing python project
+notes for some robust and fantastic python projects
